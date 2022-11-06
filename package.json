@@ -1,0 +1,15 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Revisando todas las novedades de JS desde la version 6de ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "kevin Rondon <kevinalexisrondongonzalez@gmail.com>",
+  "license": "MIT"
+}
